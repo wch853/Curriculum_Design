@@ -1,7 +1,0 @@
-（一）本系统由江苏鹏程技术开发有限公司独立开发，未经授权，不得使用。
-      Copyright 2016 SuperCareer Inc.All Rights Reserved
-（二）请在技术人员指导下使用本系统。
-（三）版本号：beta1.0(2016.12)。
-（四）联系电话：400-800-201612。
-SuperCareer is a registered trademark of JiangSuPengcheng Corporation and/or 
-its affiliates. Other names may be trademarks of their respective owners.
